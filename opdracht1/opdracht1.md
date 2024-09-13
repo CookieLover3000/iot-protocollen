@@ -71,15 +71,15 @@ Kijk naar de ‘Operating Network Parameters’.
 
     a. Is de ZR nu met een netwerk verbonden?
 
-        ja
+    ja
 
     b. Zo ja, met welk netwerk (met welke ZC)?
 
-        Met Qing
+    Met Qing
 
     c. Wat is de waarde van het 16-bits netwerk adres (MY)?
 
-        F8C8
+    F8C8
 
 14. Druk Alt+X in de XCTU die met de ZR verbonden is en klik Read. Kijk naar de ‘Operating Network Parameters’.
 
