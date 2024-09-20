@@ -86,4 +86,4 @@ Checksum: 2E
 
 7. Welke parameter heb je aan moeten passen om het led altijd te laten werken?
 
-    Hiervoor moet je ST (Wake Time) aanpassen naar 0x7D0 op de coördinator.
+    Hiervoor moet je SP (Sleep Time) aanpassen naar 0x7D0 op de coördinator.
